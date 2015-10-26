@@ -17,8 +17,8 @@ sudo add-apt-repository ppa:webupd8team/atom
 sudo apt-get update
 sudo apt-get install atom
 
-#presse papier parcelitte
-sudo apt-get install parcelitte
+#presse papier parcellite
+sudo apt-get install parcellite
 
 #installation du logiciel git
 sudo apt-get install git
